@@ -1,4 +1,8 @@
 # Array
+## Without using extra space
+https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
+
+https://leetcode.com/problems/find-all-duplicates-in-an-array/
 ## Best time to buy and sell stocks
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 
@@ -73,6 +77,8 @@ https://leetcode.com/problems/basic-calculator-iii/
 
 https://leetcode.com/problems/basic-calculator-iv/
 
+https://leetcode.com/problems/build-binary-expression-tree-from-infix-expression/
+
 ## Remove duplicates
 https://leetcode.com/problems/remove-duplicate-letters/
 
@@ -94,6 +100,10 @@ https://leetcode.com/problems/number-of-valid-subarrays/
 # Stack
 https://leetcode.com/problems/next-greater-element-i/
 
+https://leetcode.com/problems/remove-k-digits/
+
+
+
 # Map
 https://leetcode.com/problems/subarray-sum-equals-k/
 
@@ -106,3 +116,5 @@ https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/
 https://leetcode.com/problems/max-points-on-a-line/solution/
 
 https://leetcode.com/problems/substring-with-concatenation-of-all-words/
+
+https://leetcode.com/problems/unique-email-addresses/
