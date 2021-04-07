@@ -32,6 +32,8 @@ https://leetcode.com/problems/valid-parentheses/
 
 https://leetcode.com/problems/valid-parenthesis-string/
 
+https://leetcode.com/problems/remove-outermost-parentheses/
+
 ## Generate parentheses
 https://leetcode.com/problems/generate-parentheses/
 https://leetcode.com/problems/longest-valid-parentheses/
