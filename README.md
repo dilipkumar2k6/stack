@@ -118,3 +118,10 @@ https://leetcode.com/problems/max-points-on-a-line/solution/
 https://leetcode.com/problems/substring-with-concatenation-of-all-words/
 
 https://leetcode.com/problems/unique-email-addresses/
+
+# Monotonic stack
+https://leetcode.com/problems/sum-of-subarray-minimums/
+
+https://leetcode.com/problems/odd-even-jump/
+
+https://leetcode.com/problems/maximize-distance-to-closest-person/
