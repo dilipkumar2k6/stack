@@ -151,12 +151,17 @@ for (let i=0; i < A.length; i++) {
 }
 ```
 ## Problems
+https://leetcode.com/problems/next-greater-element-i/
+
+https://leetcode.com/problems/next-greater-element-ii/
+
+https://leetcode.com/problems/next-greater-element-iii/
+
 
 https://leetcode.com/problems/daily-temperatures/
 
 https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
 
-https://leetcode.com/problems/next-greater-element-i/
 
 https://leetcode.com/problems/online-stock-span/
 
