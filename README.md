@@ -124,8 +124,55 @@ https://leetcode.com/problems/unique-email-addresses/
 https://leetcode.com/problems/string-transforms-into-another-string/
 
 # Monotonic stack
+## Summary
+- [2, 3, 9 , 1, 5]
+- For every element  find the nearest element which is greater than element
+- ans: [3, 5, -1, 5, -1]
+- Brute force Approach:
+    - Start traversing from left to right let's say i
+    - Find element which is greater than current element i
+- Approach using stack
+    - Example: [2, 6, 9, 8, 1]
+    - Monotonically increasing stack
+        ![](assets/monotonically-increasing-stack.png)
+    - Monotically decreasing stack
+        ![](assets/monotonically-decreasing-stack.png)
+## Next smaller element
+- Whenever need to find out next smaller element, we need increasing stack
+- 
+## Code template for increasing stack
+```
+const stack = [];
+for (let i=0; i < A.length; i++) {
+    while(stack.length > 0 && stack[stack.length - 1] > A[i]) {
+        stack.pop()
+    }
+    stack.push(A[i])
+}
+```
+## Problems
+
+https://leetcode.com/problems/daily-temperatures/
+
+https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
+
+https://leetcode.com/problems/next-greater-element-i/
+
+https://leetcode.com/problems/online-stock-span/
+
+https://leetcode.com/problems/132-pattern/
+
 https://leetcode.com/problems/sum-of-subarray-minimums/
+
+https://leetcode.com/problems/largest-rectangle-in-histogram/
 
 https://leetcode.com/problems/odd-even-jump/
 
 https://leetcode.com/problems/maximize-distance-to-closest-person/
+
+## Reference
+https://www.youtube.com/watch?v=m4hvxzLoN_I
+
+https://www.youtube.com/watch?v=TunTV2-griM
+
+https://www.youtube.com/watch?v=afecpxFVd5k
