@@ -6,11 +6,11 @@ https://leetcode.com/problems/find-all-duplicates-in-an-array/
 ## Best time to buy and sell stocks
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 
-https://leetcode.com/problems/best-time-to-buy-and-sell-stock-II/
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
 
-https://leetcode.com/problems/best-time-to-buy-and-sell-stock-III/
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/
 
-https://leetcode.com/problems/best-time-to-buy-and-sell-stock-IV/
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/
 
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/
 
@@ -21,7 +21,7 @@ https://leetcode.com/problems/bulb-switcher-ii
 
 https://leetcode.com/problems/bulb-switcher-iii/
 
-https://leetcode.com/problems/bulb-switcher-iv/
+https://leetcode.com/problems/bulb-switcher-iv/ (Removed)
 
 
 # Stack
