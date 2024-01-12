@@ -3,26 +3,6 @@
 https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
 
 https://leetcode.com/problems/find-all-duplicates-in-an-array/
-## Best time to buy and sell stocks
-https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
-
-https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
-
-https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/
-
-https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/
-
-https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/
-
-## Switch off bulb
-https://leetcode.com/problems/bulb-switcher
-
-https://leetcode.com/problems/bulb-switcher-ii
-
-https://leetcode.com/problems/bulb-switcher-iii/
-
-https://leetcode.com/problems/bulb-switcher-iv/ (Removed)
-
 
 # Stack
 ## Get min
@@ -174,6 +154,26 @@ https://leetcode.com/problems/largest-rectangle-in-histogram/
 https://leetcode.com/problems/odd-even-jump/
 
 https://leetcode.com/problems/maximize-distance-to-closest-person/
+
+## Best time to buy and sell stocks
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
+
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/
+
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/
+
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/
+
+## Switch off bulb
+https://leetcode.com/problems/bulb-switcher
+
+https://leetcode.com/problems/bulb-switcher-ii
+
+https://leetcode.com/problems/bulb-switcher-iii/
+
+https://leetcode.com/problems/bulb-switcher-iv/ (Removed)
 
 ## Reference
 https://www.youtube.com/watch?v=m4hvxzLoN_I
