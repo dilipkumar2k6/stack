@@ -155,6 +155,8 @@ https://leetcode.com/problems/odd-even-jump/
 
 https://leetcode.com/problems/maximize-distance-to-closest-person/
 
+https://leetcode.com/problems/132-pattern/
+
 ## Best time to buy and sell stocks
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 
